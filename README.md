@@ -5,5 +5,5 @@ In this course, you'll learn how to use your knowledge of client-side JavaScript
 
 Source files for the Tuts+ course: [Node for the Front-End Developer](https://courses.tutsplus.com/)
 
-**Available on Tuts+ June 5th 2014**
+**Available on Tuts+ 5 June, 2014**
 
